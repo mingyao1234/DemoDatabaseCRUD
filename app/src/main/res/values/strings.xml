@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo DatabaseCRUD</string>
+    <string name="content">Enter data to be inserted here:</string>
+    <string name="add">Insert</string>
+    <string name="edit">Edit</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="id">ID:</string>
+    <string name="content2">Content:</string>
+</resources>
